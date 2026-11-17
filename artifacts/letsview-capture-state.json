@@ -1,0 +1,60 @@
+{
+  "hole_cards": [],
+  "community_cards": [],
+  "pot": null,
+  "hero_stack": null,
+  "active_opponents": null,
+  "call_amount": null,
+  "effective_stack": null,
+  "dealer_position": null,
+  "current_bet": null,
+  "detection_confidence": 0,
+  "ui_state": "UNKNOWN",
+  "ranges": [
+    "Random"
+  ],
+  "sources": {
+    "hole_cards": "computer vision",
+    "community_cards": "computer vision",
+    "pot": "OCR",
+    "hero_stack": "OCR",
+    "ranges": "default assumption"
+  },
+  "players": [
+    {
+      "seat": "seat_1",
+      "state": "UNKNOWN",
+      "occupied": null,
+      "stack": null,
+      "dealer": null
+    },
+    {
+      "seat": "seat_2",
+      "state": "UNKNOWN",
+      "occupied": null,
+      "stack": null,
+      "dealer": null
+    },
+    {
+      "seat": "seat_3",
+      "state": "UNKNOWN",
+      "occupied": null,
+      "stack": null,
+      "dealer": null
+    },
+    {
+      "seat": "seat_4",
+      "state": "UNKNOWN",
+      "occupied": null,
+      "stack": null,
+      "dealer": null
+    }
+  ],
+  "warnings": [
+    "hole: incomplete or uncertain cards; manual correction required"
+  ],
+  "game_type": "NLHE",
+  "board_known": true,
+  "visible_board_count": 0,
+  "street": "PREFLOP"
+}

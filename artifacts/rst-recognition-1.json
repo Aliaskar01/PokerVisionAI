@@ -1,0 +1,68 @@
+{
+  "hole_cards": [
+    "Qs",
+    "Th"
+  ],
+  "community_cards": [
+    "3d",
+    "Ad",
+    "4h"
+  ],
+  "pot": 60.0,
+  "hero_stack": 380.0,
+  "active_opponents": null,
+  "call_amount": null,
+  "effective_stack": null,
+  "dealer_position": null,
+  "current_bet": null,
+  "detection_confidence": 0.9999997019767761,
+  "ui_state": "UNKNOWN",
+  "ranges": [
+    "Random"
+  ],
+  "sources": {
+    "hole_cards": "computer vision",
+    "community_cards": "computer vision",
+    "active_opponents": "Unknown",
+    "pot": "OCR",
+    "call_amount": "Unknown",
+    "hero_stack": "OCR",
+    "effective_stack": "Unknown",
+    "ranges": "Default assumption"
+  },
+  "players": [
+    {
+      "seat": "seat_1",
+      "state": "UNKNOWN",
+      "occupied": true,
+      "stack": 195.0,
+      "dealer": null
+    },
+    {
+      "seat": "seat_2",
+      "state": "UNKNOWN",
+      "occupied": true,
+      "stack": 1200.0,
+      "dealer": null
+    },
+    {
+      "seat": "seat_3",
+      "state": "UNKNOWN",
+      "occupied": true,
+      "stack": 942.0,
+      "dealer": null
+    },
+    {
+      "seat": "seat_4",
+      "state": "UNKNOWN",
+      "occupied": null,
+      "stack": null,
+      "dealer": null
+    }
+  ],
+  "warnings": [],
+  "game_type": "NLHE",
+  "board_known": true,
+  "visible_board_count": 3,
+  "street": "FLOP"
+}

@@ -1,0 +1,12 @@
+{
+  "description": "User-supplied calibration screenshot, not held-out test data",
+  "size": [493, 1077],
+  "hole_cards": ["Jc", "4h"],
+  "community_cards": ["Jd", "2d", "Qc"],
+  "pot": 80,
+  "hero_stack": 380,
+  "opponent_stacks": [411, 1150, 1200, 1490],
+  "ui_state": "PRE_ACTION_AVAILABLE",
+  "active_opponents": null,
+  "call_amount": null
+}

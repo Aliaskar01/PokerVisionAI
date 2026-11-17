@@ -1,0 +1,10 @@
+[project]
+name = "pokervision-ai"
+version = "1.0.0"
+description = "Local desktop poker observation and offline training"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+qt_api = "pyside6"
